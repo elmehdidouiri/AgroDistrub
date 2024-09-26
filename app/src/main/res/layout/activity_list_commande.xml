@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".list_commande">
+    <EditText
+        android:id="@+id/edittext_n_commande"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/background_text"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter N Commande" />
+    <ListView
+        android:id="@+id/listview_commande"
+        android:layout_width="match_parent"
+        android:layout_height="606dp"
+        android:divider="#0099ff"
+        android:dividerHeight="1dp" />
+    <EditText
+        android:id="@+id/edittext_total"
+        android:layout_width="match_parent"
+        android:hint="Total"
+        android:layout_height="64dp"
+        android:background="@drawable/background_text"
+        android:ems="10"
+        android:gravity="center"
+        />
+</LinearLayout>

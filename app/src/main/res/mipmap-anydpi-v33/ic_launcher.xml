@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/whatsapp_image_2023_04_19_at_18_46_10_removebg_preview" />
+    <foreground android:drawable="@drawable/whatsapp_image_2023_04_19_at_18_46_10_removebg_preview" />
+    <monochrome android:drawable="@drawable/whatsapp_image_2023_04_19_at_18_46_10_removebg_preview" />
+</adaptive-icon>

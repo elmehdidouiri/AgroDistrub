@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AgroDistrib</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_dashboarddd">dashboarddd</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="Gamme">Gamme</string>
+    <string name="produit">Sous produit</string>
+    <string name="ajouter">Ajouter</string>
+    <string-array name="array_gamme">
+        <item> Sélectionner un gamme</item>
+        <item> Lait</item>
+        <item> Yaourt</item>
+        <item> Jben</item>
+    </string-array>
+    <string-array name="array_default_produit">
+        <item> Sélectionner un produit</item>
+    </string-array>
+
+    <string-array name="array_Lait_produit">
+        <item> Sélectionner un produit</item>
+        <item> lait carton 1/2</item>
+        <item> lait carton 1</item>
+        <item> lait plastique 1/2</item>
+    </string-array>
+
+    <string-array name="array_Yaourt_produit">
+        <item> Sélectionner un produit</item>
+        <item> Yaourt fraise</item>
+        <item> Yaourt vanille </item>
+        <item> grand yaourt vanille</item>
+    </string-array>
+
+    <string-array name="array_Jben_produit">
+        <item> Sélectionner un produit</item>
+        <item> jben 1/4</item>
+        <item> jben 1/2</item>
+        <item> framage 1</item>
+    </string-array>
+</resources>
